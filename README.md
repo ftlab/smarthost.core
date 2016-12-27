@@ -1,1 +1,1 @@
-# smarthost
+# smarthost.core
